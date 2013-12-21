@@ -1,3 +1,8 @@
+# One month rails
+
+This is the pinteresting app created by [Jerome Serre](mailto:jserre@explolab.com)
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
